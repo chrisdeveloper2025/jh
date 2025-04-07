@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100..900&family=Caveat:wght@400..700&family=Grand+Hotel&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+/* variable */
+
+:root{
+ --clr-primary: #f46478;
+ --clr-primary-light: #879ff8;
+ --ff-primary: "caveat";
+ --ff-secondary: "grand hotel";
+ --clr-primary: #f46478;
+ --clr-primary: #f46478;
+ --clr-primary: #f46478;
+}
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+image{
+ width: 100%;
+ display: block;
+
+}
+h1{
+ font-family: var(--ff-primary);
+}
+h2{
+ font-family: var(--ff-secondary);
+}
